@@ -1,3 +1,3 @@
-# classtest.ai Repository
+# classtest.ai repositories
 
 Here you will find nothing interesting
