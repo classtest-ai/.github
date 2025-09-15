@@ -1,3 +1,3 @@
-# classtest.ai repositories
+# Cool! You found us.
 
-Here you will find nothing interesting
+## Now visit [classtest.ai](https://classtest.ai)
